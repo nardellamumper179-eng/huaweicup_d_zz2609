@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+raw_data/
+*.tif
+*.zip
+*.tmp
