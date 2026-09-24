@@ -18,7 +18,7 @@ DEM_PATH = (
     / "数字高程模型数据（DEM）"
     / "镇龙乡及周边30米DEM.mat"
 )
-OUTPUT_DIR = Path(__file__).resolve().parent / "results"
+OUTPUT_DIR = Path(__file__).resolve().parent.parent / "results"
 OUTPUT_PATH = OUTPUT_DIR / "问题一计算结果.xlsx"
 
 G = 9.80665
