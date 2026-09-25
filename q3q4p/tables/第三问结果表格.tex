@@ -1,0 +1,45 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{第三问中继架次安排}
+\label{tab:q3-relay}
+\setlength{\tabcolsep}{6pt}
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{llrrrrr}
+\toprule
+架次 & 无人机/区域 & 建链完成/s & 服务结束/s & 返航/s & 能耗/kWh & SOC/\% \\
+\midrule
+R-M01 & R01 / 中央 & 503.68 & 3602.00 & 3928.06 & 1.1160 & 65.13 \\
+R-M02 & R02 / 东部 & 725.88 & 2686.00 & 3251.79 & 0.8953 & 72.02 \\
+R-M03 & R01 / 西部 & 4692.77 & 7377.00 & 7665.95 & 0.9630 & 69.91 \\
+R-M04 & R02 / 北部 & 4300.39 & 7705.00 & 8277.90 & 1.3644 & 57.36 \\
+\bottomrule
+\end{tabular}
+\par\smallskip
+\begin{minipage}{0.98\linewidth}
+\footnotesize 注：建链完成后开始提供通信服务。能耗包括往返飞行以及建链、通信服务期间的悬停能耗。
+\end{minipage}
+\end{table}
+
+\begin{table}[htbp]
+\centering
+\small
+\caption{第三问分区域通信检查结果}
+\label{tab:q3-coverage}
+\setlength{\tabcolsep}{6pt}
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{llrrrrr}
+\toprule
+区域 & 中继架次 & 缺口样本数 & 接入裕量/dB & 回传裕量/dB & 双段裕量/dB & 中断数 \\
+\midrule
+中央 & R-M01 & 3906 & 0.396 & 16.488 & 0.396 & 0 \\
+东部 & R-M02 & 2861 & 3.639 & 1.103 & 1.103 & 0 \\
+西部 & R-M03 & 2978 & 0.966 & 18.662 & 0.966 & 0 \\
+北部 & R-M04 & 2486 & 0.069 & 9.625 & 0.069 & 0 \\
+\bottomrule
+\end{tabular}
+\par\smallskip
+\begin{minipage}{0.98\linewidth}
+\footnotesize 注：接入裕量与双段裕量取区域内样本最小值。零中断结论针对逐秒检查及边界加密样本，不是连续时间的解析证明。
+\end{minipage}
+\end{table}

@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="467.143266pt" version="1.1" viewBox="0 0 783.586 467.143266" width="783.586pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-26T01:28:48.039450</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 467.143266 
+L 783.586 467.143266 
+L 783.586 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 85.33 404.208 
+L 773.506 404.208 
+L 773.506 105.552 
+L 85.33 105.552 
+z
+" style="fill:#f6f9fa;"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path clip-path="url(#p2e1aa7fa05)" d="M 85.33 404.208 
+L 85.33 105.552 
+" style="fill:none;stroke:#dce5ea;stroke-linecap:square;stroke-width:0.8;"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path d="M 0 0 
+L 0 3.5 
+" id="m553ddd773b" style="stroke:#66727c;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="85.33" xlink:href="#m553ddd773b" y="404.208"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 85.33, 418.42675)" x="85.33" y="418.42675">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path clip-path="url(#p2e1aa7fa05)" d="M 169.253902 404.208 
+L 169.253902 105.552 
+" style="fill:none;stroke:#dce5ea;stroke-linecap:square;stroke-width:0.8;"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="169.253902" xlink:href="#m553ddd773b" y="404.208"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 169.253902, 418.42675)" x="169.253902" y="418.42675">2.5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path clip-path="url(#p2e1aa7fa05)" d="M 253.177805 404.208 
+L 253.177805 105.552 
+" style="fill:none;stroke:#dce5ea;stroke-linecap:square;stroke-width:0.8;"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="253.177805" xlink:href="#m553ddd773b" y="404.208"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 253.177805, 418.42675)" x="253.177805" y="418.42675">5.0</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path clip-path="url(#p2e1aa7fa05)" d="M 337.101707 404.208 
+L 337.101707 105.552 
+" style="fill:none;stroke:#dce5ea;stroke-linecap:square;stroke-width:0.8;"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="337.101707" xlink:href="#m553ddd773b" y="404.208"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 337.101707, 418.42675)" x="337.101707" y="418.42675">7.5</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path clip-path="url(#p2e1aa7fa05)" d="M 421.02561 404.208 
+L 421.02561 105.552 
+" style="fill:none;stroke:#dce5ea;stroke-linecap:square;stroke-width:0.8;"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="421.02561" xlink:href="#m553ddd773b" y="404.208"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 421.02561, 418.42675)" x="421.02561" y="418.42675">10.0</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path clip-path="url(#p2e1aa7fa05)" d="M 504.949512 404.208 
+L 504.949512 105.552 
+" style="fill:none;stroke:#dce5ea;stroke-linecap:square;stroke-width:0.8;"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="504.949512" xlink:href="#m553ddd773b" y="404.208"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 504.949512, 418.42675)" x="504.949512" y="418.42675">12.5</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path clip-path="url(#p2e1aa7fa05)" d="M 588.873415 404.208 
+L 588.873415 105.552 
+" style="fill:none;stroke:#dce5ea;stroke-linecap:square;stroke-width:0.8;"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="588.873415" xlink:href="#m553ddd773b" y="404.208"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 588.873415, 418.42675)" x="588.873415" y="418.42675">15.0</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path clip-path="url(#p2e1aa7fa05)" d="M 672.797317 404.208 
+L 672.797317 105.552 
+" style="fill:none;stroke:#dce5ea;stroke-linecap:square;stroke-width:0.8;"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="672.797317" xlink:href="#m553ddd773b" y="404.208"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 672.797317, 418.42675)" x="672.797317" y="418.42675">17.5</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <path clip-path="url(#p2e1aa7fa05)" d="M 756.72122 404.208 
+L 756.72122 105.552 
+" style="fill:none;stroke:#dce5ea;stroke-linecap:square;stroke-width:0.8;"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="756.72122" xlink:href="#m553ddd773b" y="404.208"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 756.72122, 418.42675)" x="756.72122" y="418.42675">20.0</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="fill:#30343a;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 429.418, 432.106437)" x="429.418" y="432.106437">链路裕量 / dB</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_19">
+      <defs>
+       <path d="M 0 0 
+L -3.5 0 
+" id="mddabad6642" style="stroke:#66727c;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="85.33" xlink:href="#mddabad6642" y="140.481634"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 78.33, 144.706244)" x="78.33" y="144.706244">中央 · R-M01</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_20">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="85.33" xlink:href="#mddabad6642" y="216.747211"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 78.33, 220.930805)" x="78.33" y="220.930805">东部 · R-M02</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_21">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="85.33" xlink:href="#mddabad6642" y="293.012789"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 78.33, 297.196382)" x="78.33" y="297.196382">西部 · R-M03</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_22">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="85.33" xlink:href="#mddabad6642" y="369.278366"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 78.33, 373.461959)" x="78.33" y="373.461959">北部 · R-M04</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path clip-path="url(#p2e1aa7fa05)" d="M 85.33 161.835996 
+L 638.834974 161.835996 
+L 638.834974 140.481634 
+L 85.33 140.481634 
+z
+" style="fill:url(#h3f8c9005dd);opacity:0.35;stroke:#4e79a7;stroke-linejoin:miter;"/>
+   </g>
+   <g id="patch_4">
+    <path clip-path="url(#p2e1aa7fa05)" d="M 85.33 238.101573 
+L 122.367875 238.101573 
+L 122.367875 216.747211 
+L 85.33 216.747211 
+z
+" style="fill:url(#haf7e7a5ba0);opacity:0.35;stroke:#62b7b4;stroke-linejoin:miter;"/>
+   </g>
+   <g id="patch_5">
+    <path clip-path="url(#p2e1aa7fa05)" d="M 85.33 314.36715 
+L 711.801011 314.36715 
+L 711.801011 293.012789 
+L 85.33 293.012789 
+z
+" style="fill:url(#he86de301b7);opacity:0.35;stroke:#e9c75b;stroke-linejoin:miter;"/>
+   </g>
+   <g id="patch_6">
+    <path clip-path="url(#p2e1aa7fa05)" d="M 85.33 390.632727 
+L 408.437451 390.632727 
+L 408.437451 369.278366 
+L 85.33 369.278366 
+z
+" style="fill:url(#h07d44ef62f);opacity:0.35;stroke:#e88982;stroke-linejoin:miter;"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 85.33 404.208 
+L 85.33 105.552 
+" style="fill:none;stroke:#87939c;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 85.33 404.208 
+L 773.506 404.208 
+" style="fill:none;stroke:#87939c;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_9">
+    <path clip-path="url(#p2e1aa7fa05)" d="M 85.33 140.481634 
+L 98.611027 140.481634 
+L 98.611027 119.127273 
+L 85.33 119.127273 
+z
+" style="fill:#4e79a7;stroke:#ffffff;stroke-linejoin:miter;"/>
+   </g>
+   <g id="patch_10">
+    <path clip-path="url(#p2e1aa7fa05)" d="M 85.33 216.747211 
+L 207.475209 216.747211 
+L 207.475209 195.39285 
+L 85.33 195.39285 
+z
+" style="fill:#62b7b4;stroke:#ffffff;stroke-linejoin:miter;"/>
+   </g>
+   <g id="patch_11">
+    <path clip-path="url(#p2e1aa7fa05)" d="M 85.33 293.012789 
+L 117.772118 293.012789 
+L 117.772118 271.658427 
+L 85.33 271.658427 
+z
+" style="fill:#e9c75b;stroke:#ffffff;stroke-linejoin:miter;"/>
+   </g>
+   <g id="patch_12">
+    <path clip-path="url(#p2e1aa7fa05)" d="M 85.33 369.278366 
+L 87.641138 369.278366 
+L 87.641138 347.924004 
+L 85.33 347.924004 
+z
+" style="fill:#e88982;stroke:#ffffff;stroke-linejoin:miter;"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path d="M 0 3.708099 
+C 0.983399 3.708099 1.926654 3.317391 2.622022 2.622022 
+C 3.317391 1.926654 3.708099 0.983399 3.708099 0 
+C 3.708099 -0.983399 3.317391 -1.926654 2.622022 -2.622022 
+C 1.926654 -3.317391 0.983399 -3.708099 0 -3.708099 
+C -0.983399 -3.708099 -1.926654 -3.317391 -2.622022 -2.622022 
+C -3.317391 -1.926654 -3.708099 -0.983399 -3.708099 0 
+C -3.708099 0.983399 -3.317391 1.926654 -2.622022 2.622022 
+C -1.926654 3.317391 -0.983399 3.708099 0 3.708099 
+z
+" id="mfbcc751b89" style="stroke:#30343a;stroke-width:1.2;"/>
+    </defs>
+    <g clip-path="url(#p2e1aa7fa05)">
+     <use style="fill:#ffffff;stroke:#30343a;stroke-width:1.2;" x="98.611027" xlink:href="#mfbcc751b89" y="129.804454"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p2e1aa7fa05)">
+     <use style="fill:#ffffff;stroke:#30343a;stroke-width:1.2;" x="122.367875" xlink:href="#mfbcc751b89" y="227.424392"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#p2e1aa7fa05)">
+     <use style="fill:#ffffff;stroke:#30343a;stroke-width:1.2;" x="117.772118" xlink:href="#mfbcc751b89" y="282.335608"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#p2e1aa7fa05)">
+     <use style="fill:#ffffff;stroke:#30343a;stroke-width:1.2;" x="87.641138" xlink:href="#mfbcc751b89" y="358.601185"/>
+    </g>
+   </g>
+   <g id="legend_1">
+    <g id="patch_13">
+     <path d="M 93.43 108.983104 
+L 111.43 108.983104 
+L 111.43 102.683104 
+L 93.43 102.683104 
+z
+" style="fill:#4e79a7;stroke:#ffffff;stroke-linejoin:miter;"/>
+    </g>
+    <g id="text_15">
+     <text style="fill:#30343a;font-family:SimHei;font-size:9px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 118.63, 108.983104)" x="118.63" y="108.983104">运输无人机—中继：最小接入裕量</text>
+    </g>
+    <g id="patch_14">
+     <path d="M 271.63 108.983104 
+L 289.63 108.983104 
+L 289.63 102.683104 
+L 271.63 102.683104 
+z
+" style="fill:url(#h3f8c9005dd);opacity:0.35;stroke:#4e79a7;stroke-linejoin:miter;"/>
+    </g>
+    <g id="text_16">
+     <text style="fill:#30343a;font-family:SimHei;font-size:9px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 296.83, 108.983104)" x="296.83" y="108.983104">中继—G01：回传裕量</text>
+    </g>
+   </g>
+   <g id="text_17">
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.8px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 105.611027, 132.777891)" x="105.611027" y="132.777891">瓶颈 0.396 dB</text>
+   </g>
+   <g id="text_18">
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.8px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 129.367875, 230.39783)" x="129.367875" y="230.39783">瓶颈 1.103 dB</text>
+   </g>
+   <g id="text_19">
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.8px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 124.772118, 285.309045)" x="124.772118" y="285.309045">瓶颈 0.966 dB</text>
+   </g>
+   <g id="text_20">
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.8px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 94.641138, 361.574622)" x="94.641138" y="361.574622">瓶颈 0.069 dB</text>
+   </g>
+  </g>
+  <g id="text_21">
+   <text style="fill:#30343a;font-family:SimHei;font-size:17px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:start;" transform="rotate(-0, 85.33, 23.759687)" x="85.33" y="23.759687">四个中继区域的链路裕量比较</text>
+  </g>
+  <g id="text_22">
+   <text style="fill:#66727c;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 85.33, 44.352)" x="85.33" y="44.352">白心标记为两段链路中的较小裕量；裕量大于0表示满足对应通信门限。</text>
+  </g>
+  <g id="text_23">
+   <text style="fill:#66727c;font-family:SimHei;font-size:9.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 85.33, 455.616)" x="85.33" y="455.616">北部链路的最小裕量仅0.069 dB，是基准方案中最接近门限的区域；检查样本内四区中断数均为0。</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2e1aa7fa05">
+   <rect height="298.656" width="688.176" x="85.33" y="105.552"/>
+  </clipPath>
+ </defs>
+ <defs>
+  <pattern height="72" id="h3f8c9005dd" patternUnits="userSpaceOnUse" width="72" x="0" y="0">
+   <rect fill="#4e79a7" height="73" width="73" x="0" y="0"/>
+   <path d="M -36 36 
+L 36 -36 
+M -32 40 
+L 40 -32 
+M -28 44 
+L 44 -28 
+M -24 48 
+L 48 -24 
+M -20 52 
+L 52 -20 
+M -16 56 
+L 56 -16 
+M -12 60 
+L 60 -12 
+M -8 64 
+L 64 -8 
+M -4 68 
+L 68 -4 
+M 0 72 
+L 72 0 
+M 4 76 
+L 76 4 
+M 8 80 
+L 80 8 
+M 12 84 
+L 84 12 
+M 16 88 
+L 88 16 
+M 20 92 
+L 92 20 
+M 24 96 
+L 96 24 
+M 28 100 
+L 100 28 
+M 32 104 
+L 104 32 
+M 36 108 
+L 108 36 
+" style="fill:#4e79a7;stroke:#4e79a7;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.35;stroke-width:1.0;"/>
+  </pattern>
+  <pattern height="72" id="haf7e7a5ba0" patternUnits="userSpaceOnUse" width="72" x="0" y="0">
+   <rect fill="#62b7b4" height="73" width="73" x="0" y="0"/>
+   <path d="M -36 36 
+L 36 -36 
+M -32 40 
+L 40 -32 
+M -28 44 
+L 44 -28 
+M -24 48 
+L 48 -24 
+M -20 52 
+L 52 -20 
+M -16 56 
+L 56 -16 
+M -12 60 
+L 60 -12 
+M -8 64 
+L 64 -8 
+M -4 68 
+L 68 -4 
+M 0 72 
+L 72 0 
+M 4 76 
+L 76 4 
+M 8 80 
+L 80 8 
+M 12 84 
+L 84 12 
+M 16 88 
+L 88 16 
+M 20 92 
+L 92 20 
+M 24 96 
+L 96 24 
+M 28 100 
+L 100 28 
+M 32 104 
+L 104 32 
+M 36 108 
+L 108 36 
+" style="fill:#62b7b4;stroke:#62b7b4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.35;stroke-width:1.0;"/>
+  </pattern>
+  <pattern height="72" id="he86de301b7" patternUnits="userSpaceOnUse" width="72" x="0" y="0">
+   <rect fill="#e9c75b" height="73" width="73" x="0" y="0"/>
+   <path d="M -36 36 
+L 36 -36 
+M -32 40 
+L 40 -32 
+M -28 44 
+L 44 -28 
+M -24 48 
+L 48 -24 
+M -20 52 
+L 52 -20 
+M -16 56 
+L 56 -16 
+M -12 60 
+L 60 -12 
+M -8 64 
+L 64 -8 
+M -4 68 
+L 68 -4 
+M 0 72 
+L 72 0 
+M 4 76 
+L 76 4 
+M 8 80 
+L 80 8 
+M 12 84 
+L 84 12 
+M 16 88 
+L 88 16 
+M 20 92 
+L 92 20 
+M 24 96 
+L 96 24 
+M 28 100 
+L 100 28 
+M 32 104 
+L 104 32 
+M 36 108 
+L 108 36 
+" style="fill:#e9c75b;stroke:#e9c75b;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.35;stroke-width:1.0;"/>
+  </pattern>
+  <pattern height="72" id="h07d44ef62f" patternUnits="userSpaceOnUse" width="72" x="0" y="0">
+   <rect fill="#e88982" height="73" width="73" x="0" y="0"/>
+   <path d="M -36 36 
+L 36 -36 
+M -32 40 
+L 40 -32 
+M -28 44 
+L 44 -28 
+M -24 48 
+L 48 -24 
+M -20 52 
+L 52 -20 
+M -16 56 
+L 56 -16 
+M -12 60 
+L 60 -12 
+M -8 64 
+L 64 -8 
+M -4 68 
+L 68 -4 
+M 0 72 
+L 72 0 
+M 4 76 
+L 76 4 
+M 8 80 
+L 80 8 
+M 12 84 
+L 84 12 
+M 16 88 
+L 88 16 
+M 20 92 
+L 92 20 
+M 24 96 
+L 96 24 
+M 28 100 
+L 100 28 
+M 32 104 
+L 104 32 
+M 36 108 
+L 108 36 
+" style="fill:#e88982;stroke:#e88982;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.35;stroke-width:1.0;"/>
+  </pattern>
+ </defs>
+</svg>

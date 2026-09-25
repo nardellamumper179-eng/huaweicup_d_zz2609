@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="632.0803pt" version="1.1" viewBox="0 0 637.300011 632.0803" width="637.300011pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-26T01:29:18.957685</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 632.0803 
+L 637.300011 632.0803 
+L 637.300011 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="patch_2">
+   <path d="M 104.256 556.56 
+L 581.184 556.56 
+L 581.184 79.632 
+L 104.256 79.632 
+z
+" style="fill:#f6f9fa;"/>
+  </g>
+  <g id="pane3d_1">
+   <g id="patch_3">
+    <path d="M 139.916113 414.595691 
+L 267.153713 325.533322 
+L 263.707032 122.349512 
+L 130.530999 201.751002 
+" style="fill:#f7fafb;opacity:0.5;stroke:#f2f2f2;stroke-linejoin:miter;"/>
+   </g>
+  </g>
+  <g id="pane3d_2">
+   <g id="patch_4">
+    <path d="M 267.153713 325.533322 
+L 558.755996 417.005462 
+L 568.172519 203.905358 
+L 263.707032 122.349512 
+" style="fill:#f7fafb;opacity:0.5;stroke:#e6e6e6;stroke-linejoin:miter;"/>
+   </g>
+  </g>
+  <g id="pane3d_3">
+   <g id="patch_5">
+    <path d="M 139.916113 414.595691 
+L 442.614885 518.655895 
+L 558.755996 417.005462 
+L 267.153713 325.533322 
+" style="fill:#f7fafb;opacity:0.5;stroke:#ececec;stroke-linejoin:miter;"/>
+   </g>
+  </g>
+  <g id="axis3d_1">
+   <g id="line2d_1">
+    <path d="M 139.916113 414.595691 
+L 442.614885 518.655895 
+" style="fill:none;stroke:#87939c;stroke-linecap:square;stroke-width:0.8;"/>
+   </g>
+   <g id="text_1">
+    <text style="fill:#30343a;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(233.193115 497.575007)rotate(-341.028322)">允许偏离组均值</text>
+   </g>
+   <g id="Line3DCollection_1">
+    <path d="M 161.64657 422.066074 
+L 288.170459 332.126023 
+L 285.594326 128.212367 
+" style="fill:none;stroke:#bfccd4;stroke-opacity:0.42;stroke-width:0.8;"/>
+    <path d="M 243.827001 450.317634 
+L 367.535508 357.021888 
+L 368.325879 150.373308 
+" style="fill:none;stroke:#bfccd4;stroke-opacity:0.42;stroke-width:0.8;"/>
+    <path d="M 286.104169 464.851458 
+L 408.29283 369.806971 
+L 410.8607 161.766925 
+" style="fill:none;stroke:#bfccd4;stroke-opacity:0.42;stroke-width:0.8;"/>
+    <path d="M 329.20341 479.66789 
+L 449.792795 382.825012 
+L 454.204532 173.377249 
+" style="fill:none;stroke:#bfccd4;stroke-opacity:0.42;stroke-width:0.8;"/>
+    <path d="M 417.96593 510.182206 
+L 535.103353 409.585911 
+L 543.413341 197.273225 
+" style="fill:none;stroke:#bfccd4;stroke-opacity:0.42;stroke-width:0.8;"/>
+   </g>
+   <g id="xtick_1">
+    <g id="line2d_2">
+     <path d="M 162.723641 421.300434 
+L 159.489083 423.599733 
+" style="fill:none;stroke:#66727c;stroke-linecap:square;stroke-width:0.8;"/>
+    </g>
+    <g id="text_2">
+     <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 155.779005, 443.19557)" x="155.779005" y="443.19557">10%</text>
+    </g>
+   </g>
+   <g id="xtick_2">
+    <g id="line2d_3">
+     <path d="M 244.881315 449.522515 
+L 241.715037 451.910389 
+" style="fill:none;stroke:#66727c;stroke-linecap:square;stroke-width:0.8;"/>
+    </g>
+    <g id="text_3">
+     <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 237.930868, 471.741425)" x="237.930868" y="471.741425">20%</text>
+    </g>
+   </g>
+   <g id="xtick_3">
+    <g id="line2d_4">
+     <path d="M 287.146143 464.040958 
+L 284.016889 466.475049 
+" style="fill:none;stroke:#66727c;stroke-linecap:square;stroke-width:0.8;"/>
+    </g>
+    <g id="text_4">
+     <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 280.194555, 486.42707)" x="280.194555" y="486.42707">25%</text>
+    </g>
+   </g>
+   <g id="xtick_4">
+    <g id="line2d_5">
+     <path d="M 330.232365 478.841558 
+L 327.142179 481.323223 
+" style="fill:none;stroke:#66727c;stroke-linecap:square;stroke-width:0.8;"/>
+    </g>
+    <g id="text_5">
+     <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 323.280906, 501.398572)" x="323.280906" y="501.398572">30%</text>
+    </g>
+   </g>
+   <g id="xtick_5">
+    <g id="line2d_6">
+     <path d="M 418.966667 509.322784 
+L 415.961162 511.903878 
+" style="fill:none;stroke:#66727c;stroke-linecap:square;stroke-width:0.8;"/>
+    </g>
+    <g id="text_6">
+     <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 412.019583, 532.233191)" x="412.019583" y="532.233191">40%</text>
+    </g>
+   </g>
+  </g>
+  <g id="axis3d_2">
+   <g id="line2d_7">
+    <path d="M 558.755996 417.005462 
+L 442.614885 518.655895 
+" style="fill:none;stroke:#87939c;stroke-linecap:square;stroke-width:0.8;"/>
+   </g>
+   <g id="Line3DCollection_2">
+    <path d="M 157.113034 185.902405 
+L 165.257852 396.857261 
+L 465.825537 498.341186 
+" style="fill:none;stroke:#bfccd4;stroke-opacity:0.42;stroke-width:0.8;"/>
+    <path d="M 232.540963 140.931176 
+L 237.315582 346.419087 
+L 531.608753 440.765601 
+" style="fill:none;stroke:#bfccd4;stroke-opacity:0.42;stroke-width:0.8;"/>
+   </g>
+   <g id="xtick_6">
+    <g id="line2d_8">
+     <path d="M 463.254825 497.473209 
+L 470.975571 500.080048 
+" style="fill:none;stroke:#66727c;stroke-linecap:square;stroke-width:0.8;"/>
+    </g>
+    <g id="text_7">
+     <text style="fill:#66727c;font-family:SimHei;font-size:11px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 480.482134, 521.811413)" x="480.482134" y="521.811413">两组分区</text>
+    </g>
+   </g>
+   <g id="xtick_7">
+    <g id="line2d_9">
+     <path d="M 529.097718 439.960597 
+L 536.638923 442.378208 
+" style="fill:none;stroke:#66727c;stroke-linecap:square;stroke-width:0.8;"/>
+    </g>
+    <g id="text_8">
+     <text style="fill:#66727c;font-family:SimHei;font-size:11px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 545.79439, 463.624321)" x="545.79439" y="463.624321">三组分区</text>
+    </g>
+   </g>
+  </g>
+  <g id="axis3d_3">
+   <g id="line2d_10">
+    <path d="M 558.755996 417.005462 
+L 568.172519 203.905358 
+" style="fill:none;stroke:#87939c;stroke-linecap:square;stroke-width:0.8;"/>
+   </g>
+   <g id="text_9">
+    <text style="fill:#30343a;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(621.968833 357.84184)rotate(-87.469845)">可行分区数量 / 种</text>
+   </g>
+   <g id="Line3DCollection_3">
+    <path d="M 558.936384 412.9232 
+L 267.087506 321.630393 
+L 139.736314 410.518029 
+" style="fill:none;stroke:#bfccd4;stroke-opacity:0.42;stroke-width:0.8;"/>
+    <path d="M 561.020234 365.764763 
+L 266.323194 276.573786 
+L 137.659303 363.413557 
+" style="fill:none;stroke:#bfccd4;stroke-opacity:0.42;stroke-width:0.8;"/>
+    <path d="M 563.1459 317.659991 
+L 265.544514 230.670149 
+L 135.540681 315.365407 
+" style="fill:none;stroke:#bfccd4;stroke-opacity:0.42;stroke-width:0.8;"/>
+    <path d="M 565.314655 268.580109 
+L 264.751057 183.895372 
+L 133.379186 266.344936 
+" style="fill:none;stroke:#bfccd4;stroke-opacity:0.42;stroke-width:0.8;"/>
+    <path d="M 567.527821 218.495164 
+L 263.942397 136.224419 
+L 131.173503 216.322326 
+" style="fill:none;stroke:#bfccd4;stroke-opacity:0.42;stroke-width:0.8;"/>
+   </g>
+   <g id="xtick_8">
+    <g id="line2d_11">
+     <path d="M 556.448534 412.144979 
+L 563.91999 414.482114 
+" style="fill:none;stroke:#66727c;stroke-linecap:square;stroke-width:0.8;"/>
+    </g>
+    <g id="text_10">
+     <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 578.37703, 420.253491)" x="578.37703" y="420.253491">0</text>
+    </g>
+   </g>
+   <g id="xtick_9">
+    <g id="line2d_12">
+     <path d="M 558.50657 365.003995 
+L 566.055628 367.288741 
+" style="fill:none;stroke:#66727c;stroke-linecap:square;stroke-width:0.8;"/>
+    </g>
+    <g id="text_11">
+     <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 580.654175, 373.092554)" x="580.654175" y="373.092554">10</text>
+    </g>
+   </g>
+   <g id="xtick_10">
+    <g id="line2d_13">
+     <path d="M 560.605882 316.917536 
+L 568.234168 319.147308 
+" style="fill:none;stroke:#66727c;stroke-linecap:square;stroke-width:0.8;"/>
+    </g>
+    <g id="text_12">
+     <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 582.97702, 324.985157)" x="582.97702" y="324.985157">20</text>
+    </g>
+   </g>
+   <g id="xtick_11">
+    <g id="line2d_14">
+     <path d="M 562.747725 267.856869 
+L 570.456917 270.028957 
+" style="fill:none;stroke:#66727c;stroke-linecap:square;stroke-width:0.8;"/>
+    </g>
+    <g id="text_13">
+     <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 585.346953, 275.902522)" x="585.346953" y="275.902522">30</text>
+    </g>
+   </g>
+   <g id="xtick_12">
+    <g id="line2d_15">
+     <path d="M 564.933406 217.792086 
+L 572.725233 219.903648 
+" style="fill:none;stroke:#66727c;stroke-linecap:square;stroke-width:0.8;"/>
+    </g>
+    <g id="text_14">
+     <text style="fill:#66727c;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 587.765422, 225.814688)" x="587.765422" y="225.814688">40</text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_16">
+    <path clip-path="url(#p0f470bfc04)" d="M 186.237278 386.12616 
+L 267.120545 351.165998 
+L 309.694418 350.099051 
+L 353.395923 318.923421 
+L 445.014756 305.440316 
+" style="fill:none;stroke:#4e79a7;stroke-linecap:square;stroke-width:2.6;"/>
+    <defs>
+     <path d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" id="m7cc5f1b46a" style="stroke:#4e79a7;"/>
+    </defs>
+    <g clip-path="url(#p0f470bfc04)">
+     <use style="fill:#4e79a7;stroke:#4e79a7;" x="186.237278" xlink:href="#m7cc5f1b46a" y="386.12616"/>
+     <use style="fill:#4e79a7;stroke:#4e79a7;" x="267.120545" xlink:href="#m7cc5f1b46a" y="351.165998"/>
+     <use style="fill:#4e79a7;stroke:#4e79a7;" x="309.694418" xlink:href="#m7cc5f1b46a" y="350.099051"/>
+     <use style="fill:#4e79a7;stroke:#4e79a7;" x="353.395923" xlink:href="#m7cc5f1b46a" y="318.923421"/>
+     <use style="fill:#4e79a7;stroke:#4e79a7;" x="445.014756" xlink:href="#m7cc5f1b46a" y="305.440316"/>
+    </g>
+   </g>
+   <g id="line2d_17">
+    <path clip-path="url(#p0f470bfc04)" d="M 310.446521 441.753478 
+L 309.694418 350.099051 
+" style="fill:none;stroke:#606a72;stroke-dasharray:0.9,1.485;stroke-dashoffset:0;stroke-opacity:0.8;stroke-width:0.9;"/>
+   </g>
+   <g id="line2d_18">
+    <path clip-path="url(#p0f470bfc04)" d="M 258.432003 349.254444 
+L 338.507731 356.455833 
+L 379.88792 360.177246 
+L 422.419612 349.788116 
+L 513.74538 253.345053 
+" style="fill:none;stroke:#62b7b4;stroke-linecap:square;stroke-width:2.6;"/>
+    <defs>
+     <path d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" id="maceb9d2ed2" style="stroke:#62b7b4;"/>
+    </defs>
+    <g clip-path="url(#p0f470bfc04)">
+     <use style="fill:#62b7b4;stroke:#62b7b4;" x="258.432003" xlink:href="#maceb9d2ed2" y="349.254444"/>
+     <use style="fill:#62b7b4;stroke:#62b7b4;" x="338.507731" xlink:href="#maceb9d2ed2" y="356.455833"/>
+     <use style="fill:#62b7b4;stroke:#62b7b4;" x="379.88792" xlink:href="#maceb9d2ed2" y="360.177246"/>
+     <use style="fill:#62b7b4;stroke:#62b7b4;" x="422.419612" xlink:href="#maceb9d2ed2" y="349.788116"/>
+     <use style="fill:#62b7b4;stroke:#62b7b4;" x="513.74538" xlink:href="#maceb9d2ed2" y="253.345053"/>
+    </g>
+   </g>
+   <g id="line2d_19">
+    <path clip-path="url(#p0f470bfc04)" d="M 379.709668 388.026155 
+L 379.88792 360.177246 
+" style="fill:none;stroke:#606a72;stroke-dasharray:0.9,1.485;stroke-dashoffset:0;stroke-opacity:0.8;stroke-width:0.9;"/>
+   </g>
+   <g id="Poly3DCollection_1">
+    <path clip-path="url(#p0f470bfc04)" d="M 258.432003 349.254444 
+L 258.432003 349.254444 
+L 338.507731 356.455833 
+L 379.88792 360.177246 
+L 422.419612 349.788116 
+L 513.74538 253.345053 
+L 507.853917 428.993069 
+z
+" style="fill:#62b7b4;fill-opacity:0.2;"/>
+   </g>
+   <g id="text_15">
+    <text style="fill:#30343a;font-family:SimHei;font-size:11px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 185.997935, 379.113069)" x="185.997935" y="379.113069">3</text>
+   </g>
+   <g id="text_16">
+    <text style="fill:#30343a;font-family:SimHei;font-size:11px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 266.996124, 343.873143)" x="266.996124" y="343.873143">16</text>
+   </g>
+   <g id="text_17">
+    <text style="fill:#30343a;font-family:SimHei;font-size:11px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 309.633795, 342.711289)" x="309.633795" y="342.711289">19</text>
+   </g>
+   <g id="text_18">
+    <text style="fill:#30343a;font-family:SimHei;font-size:11px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 353.402547, 311.344284)" x="353.402547" y="311.344284">28</text>
+   </g>
+   <g id="text_19">
+    <text style="fill:#30343a;font-family:SimHei;font-size:11px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 445.16916, 297.619855)" x="445.16916" y="297.619855">36</text>
+   </g>
+   <g id="text_20">
+    <text style="fill:#30343a;font-family:SimHei;font-size:11px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 258.003052, 326.510387)" x="258.003052" y="326.510387">0</text>
+   </g>
+   <g id="text_21">
+    <text style="fill:#30343a;font-family:SimHei;font-size:11px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 338.492332, 349.514988)" x="338.492332" y="349.514988">4</text>
+   </g>
+   <g id="text_22">
+    <text style="fill:#30343a;font-family:SimHei;font-size:11px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 379.932808, 353.164158)" x="379.932808" y="353.164158">6</text>
+   </g>
+   <g id="text_23">
+    <text style="fill:#30343a;font-family:SimHei;font-size:11px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 422.528174, 342.659231)" x="422.528174" y="342.659231">11</text>
+   </g>
+   <g id="text_24">
+    <text style="fill:#30343a;font-family:SimHei;font-size:11px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 514.000365, 245.742914)" x="514.000365" y="245.742914">36</text>
+   </g>
+   <g id="Poly3DCollection_2">
+    <path clip-path="url(#p0f470bfc04)" d="M 186.713863 400.090799 
+L 186.237278 386.12616 
+L 267.120545 351.165998 
+L 309.694418 350.099051 
+L 353.395923 318.923421 
+L 445.014756 305.440316 
+L 441.452502 485.865196 
+z
+" style="fill:#4e79a7;fill-opacity:0.2;"/>
+   </g>
+  </g>
+  <g id="text_25">
+   <text style="fill:#30343a;font-family:SimHei;font-size:17px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:start;" transform="rotate(-0, 10.08, 23.826094)" x="10.08" y="23.826094">均衡要求与可行分区数量的关系</text>
+  </g>
+  <g id="text_26">
+   <text style="fill:#66727c;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 10.08, 39.888)" x="10.08" y="39.888">两层分别表示两组、三组；点旁数字为可行分区数，虚线标出25%情景。</text>
+  </g>
+  <g id="text_27">
+   <text style="fill:#66727c;font-family:SimHei;font-size:9.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 10.08, 599.616)" x="10.08" y="599.616">可行指货箱数与联合架次数满足均衡条件，不表示现有库存足够；三组10%处为0种。</text>
+  </g>
+  <g id="text_28">
+   <text style="fill:#66727c;font-family:SimHei;font-size:9.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 10.08, 620.8128)" x="10.08" y="620.8128">非空、无序分区共枚举两组63种、三组301种。连线仅用于比较已计算情景。</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0f470bfc04">
+   <rect height="476.928" width="476.928" x="104.256" y="79.632"/>
+  </clipPath>
+ </defs>
+</svg>
