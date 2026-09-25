@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="391.463844pt" version="1.1" viewBox="0 0 769.398678 391.463844" width="769.398678pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-25T23:16:27.286330</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 391.463844 
+L 769.398678 391.463844 
+L 769.398678 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 83.83 363.4815 
+L 687.74224 363.4815 
+L 687.74224 53.0175 
+L 83.83 53.0175 
+z
+" style="fill:#f6f9fa;"/>
+   </g>
+   <g clip-path="url(#peb78cfaed4)">
+    <image height="310.8" id="image47252ba1e9" transform="scale(1 -1)translate(0 -310.8)" width="604" x="83.83" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAABeYAAAMJCAYAAABmx+YzAAAZFElEQVR4nO3asS0EcByGYSdEQmIDhdptILprdVQWEVMYRGEJZtAb5DQW+DfvT87zTPDVb77N9vl1fwQAAAC/3r4/picAABy04+kBAAAAAADwnwjzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgdPKyu5jeALDk/HR6AcCa7fvn9ASAJWd319MTAJZc3t9MTwBY4jEPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCm6+nx/30CAAAAP6Oh6vb6QkAAAfNYx4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCwjwAAAAAAISEeQAAAAAACAnzAAAAAAAQEuYBAAAAACAkzAMAAAAAQEiYBwAAAACAkDAPAAAAAAAhYR4AAAAAAELCPAAAAAAAhIR5AAAAAAAICfMAAAAAABAS5gEAAAAAICTMAwAAAABASJgHAAAAAICQMA8AAAAAACFhHgAAAAAAQsI8AAAAAACEhHkAAAAAAAgJ8wAAAAAAEBLmAQAAAAAgJMwDAAAAAEBImAcAAAAAgJAwDwAAAAAAIWEeAAAAAABCPySaETL6IUe2AAAAAElFTkSuQmCC" y="-52.6815"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 144.221224, 380.288141)" x="144.221224" y="380.288141">加权延误</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 265.003672, 380.321344)" x="265.003672" y="380.321344">迟到箱数</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 385.78612, 380.254938)" x="385.78612" y="380.254938">最后返航</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 506.568568, 380.155328)" x="506.568568" y="380.155328">总能耗</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 627.351016, 380.188531)" x="627.351016" y="380.188531">总架次</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <path clip-path="url(#peb78cfaed4)" d="M 83.83 363.4815 
+L 83.83 53.0175 
+" style="fill:none;stroke:#ffffff;stroke-linecap:square;stroke-width:2.2;"/>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <path clip-path="url(#peb78cfaed4)" d="M 204.612448 363.4815 
+L 204.612448 53.0175 
+" style="fill:none;stroke:#ffffff;stroke-linecap:square;stroke-width:2.2;"/>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <path clip-path="url(#peb78cfaed4)" d="M 325.394896 363.4815 
+L 325.394896 53.0175 
+" style="fill:none;stroke:#ffffff;stroke-linecap:square;stroke-width:2.2;"/>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <path clip-path="url(#peb78cfaed4)" d="M 446.177344 363.4815 
+L 446.177344 53.0175 
+" style="fill:none;stroke:#ffffff;stroke-linecap:square;stroke-width:2.2;"/>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10">
+      <path clip-path="url(#peb78cfaed4)" d="M 566.959792 363.4815 
+L 566.959792 53.0175 
+" style="fill:none;stroke:#ffffff;stroke-linecap:square;stroke-width:2.2;"/>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_11">
+      <path clip-path="url(#peb78cfaed4)" d="M 687.74224 363.4815 
+L 687.74224 53.0175 
+" style="fill:none;stroke:#ffffff;stroke-linecap:square;stroke-width:2.2;"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(48.33 104.163844)">19架次</text>
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(39.83 113.434156)">局部搜索</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_13"/>
+     <g id="text_7">
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(48.33 207.685047)">20架次</text>
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.08 216.875672)">候选组批+CP-SAT</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_14"/>
+     <g id="text_8">
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(48.33 311.637891)">21架次</text>
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(27.08 319.712891)">ALNS+CP-SAT</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_15">
+      <path clip-path="url(#peb78cfaed4)" d="M 83.83 53.0175 
+L 687.74224 53.0175 
+" style="fill:none;stroke:#ffffff;stroke-linecap:square;stroke-width:2.2;"/>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_16">
+      <path clip-path="url(#peb78cfaed4)" d="M 83.83 156.5055 
+L 687.74224 156.5055 
+" style="fill:none;stroke:#ffffff;stroke-linecap:square;stroke-width:2.2;"/>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_17">
+      <path clip-path="url(#peb78cfaed4)" d="M 83.83 259.9935 
+L 687.74224 259.9935 
+" style="fill:none;stroke:#ffffff;stroke-linecap:square;stroke-width:2.2;"/>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_18">
+      <path clip-path="url(#peb78cfaed4)" d="M 83.83 363.4815 
+L 687.74224 363.4815 
+" style="fill:none;stroke:#ffffff;stroke-linecap:square;stroke-width:2.2;"/>
+     </g>
+    </g>
+   </g>
+   <g id="text_9">
+    <text style="fill:#ffffff;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:middle;" transform="rotate(-0, 144.221224, 107.574)" x="144.221224" y="107.574">32,536</text>
+   </g>
+   <g id="text_10">
+    <text style="fill:#ffffff;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:middle;" transform="rotate(-0, 265.003672, 108.120875)" x="265.003672" y="108.120875">3箱</text>
+   </g>
+   <g id="text_11">
+    <text style="fill:#ffffff;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:middle;" transform="rotate(-0, 385.78612, 107.574)" x="385.78612" y="107.574">2.64 h</text>
+   </g>
+   <g id="text_12">
+    <text style="fill:#ffffff;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:middle;" transform="rotate(-0, 506.568568, 107.574)" x="506.568568" y="107.574">61.57 kWh</text>
+   </g>
+   <g id="text_13">
+    <text style="fill:#ffffff;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:middle;" transform="rotate(-0, 627.351016, 108.081813)" x="627.351016" y="108.081813">19架次</text>
+   </g>
+   <g id="text_14">
+    <text style="fill:#30343a;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:middle;" transform="rotate(-0, 144.221224, 211.062)" x="144.221224" y="211.062">10,056</text>
+   </g>
+   <g id="text_15">
+    <text style="fill:#30343a;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:middle;" transform="rotate(-0, 265.003672, 211.608875)" x="265.003672" y="211.608875">1箱</text>
+   </g>
+   <g id="text_16">
+    <text style="fill:#ffffff;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:middle;" transform="rotate(-0, 385.78612, 211.062)" x="385.78612" y="211.062">2.60 h</text>
+   </g>
+   <g id="text_17">
+    <text style="fill:#ffffff;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:middle;" transform="rotate(-0, 506.568568, 211.062)" x="506.568568" y="211.062">63.63 kWh</text>
+   </g>
+   <g id="text_18">
+    <text style="fill:#30343a;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:middle;" transform="rotate(-0, 627.351016, 211.569813)" x="627.351016" y="211.569813">20架次</text>
+   </g>
+   <g id="text_19">
+    <text style="fill:#ffffff;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:middle;" transform="rotate(-0, 144.221224, 314.55)" x="144.221224" y="314.55">0</text>
+   </g>
+   <g id="text_20">
+    <text style="fill:#ffffff;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:middle;" transform="rotate(-0, 265.003672, 315.096875)" x="265.003672" y="315.096875">0箱</text>
+   </g>
+   <g id="text_21">
+    <text style="fill:#ffffff;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:middle;" transform="rotate(-0, 385.78612, 314.55)" x="385.78612" y="314.55">2.14 h</text>
+   </g>
+   <g id="text_22">
+    <text style="fill:#ffffff;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:middle;" transform="rotate(-0, 506.568568, 314.55)" x="506.568568" y="314.55">64.22 kWh</text>
+   </g>
+   <g id="text_23">
+    <text style="fill:#ffffff;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:middle;" transform="rotate(-0, 627.351016, 315.057813)" x="627.351016" y="315.057813">21架次</text>
+   </g>
+   <g id="text_24">
+    <text style="fill:#66727c;font-family:SimHei;font-size:9.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 83.83, 40.703994)" x="83.83" y="40.703994">颜色按各指标列独立归一化；单元格保留原始数值，用于比较及时性、完成时间、能耗和架次的取舍。</text>
+   </g>
+   <g id="text_25">
+    <text style="fill:#30343a;font-family:SimHei;font-size:16px;font-stretch:normal;font-style:normal;font-weight:bold;text-anchor:start;" transform="rotate(-0, 83.83, 23.0175)" x="83.83" y="23.0175">19—21架次方案的多目标权衡</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_3">
+    <path clip-path="url(#p868d11e912)" d="M 710.39704 363.4815 
+L 710.39704 362.26875 
+L 710.39704 54.23025 
+L 710.39704 53.0175 
+L 725.92024 53.0175 
+L 725.92024 54.23025 
+L 725.92024 362.26875 
+L 725.92024 363.4815 
+z
+" style="fill:#f6f9fa;stroke:#f6f9fa;stroke-linejoin:miter;stroke-width:0.01;"/>
+   </g>
+   <image height="310.4" id="imagec439c83a6b" transform="scale(1 -1)translate(0 -310.4)" width="15.6" x="710.4" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACcAAAMICAYAAABLsfxLAAAE/ElEQVR4nO2dwZHjMBDESNWE4wAdhiM2HYH8wEd4ABGgNNfNoVa7t1/vz1lSrqcF/jHXflrhHvWTS44yu39zDLVcVUJRy81e3rmqn5xarrRS1HKdrRS1XGmlqOVKK0UtV1oparnGSlHLdcGhqOVKK0Ut18pEUcuVVoparrRS1HKllaKWK60Utdxc4rmqn5xabsx2Zje3XCVMUcu1MlHUcqWVopYrrRS1XGmlqOW64FDUcuMdqvzJqeU6Wylquc5WilqutFLUco2VoparhClquS44lOQo3b4oarkOfoparoOfopYrrRS1XGmlqOVKK0Ut1+2LoparhClquT6LpKjlSitFLdfKRFHLlVaKWq60UtRypZWiluveSlHLdcGhqOUqYYparpWJopYrrRS1XGmlqOVKK0Ut1wWHopbry0OKWq6zlaKWa6wUtVwrE0UtV1oparnSSlHLdcGhqOW64FDUcp2tFLVcZyslOUpVQlHLVSUUtVxppajlun1R1HKVMEUt12eRFLVcaaWo5VqZKGq50kpRy5VWilputjiu6ienliutFLVcFxyKWq6ViaKWq4QparnSSlHLlVaKWq4LDkUtV1opark+i6So5UorRS3XWClquS44FLVcaaWo5brgUNRypZWilutspajl+sEcRS1XWilquc5WilqusVKSo3T7oqjlqhKKWq59jqKW6/ZFUcuVVoparrOVopYrrRS1XH8BgaKWq4QparlKmKKW64JDUcuVVoparrOVopYrrRS1XBccilqutFLUcp2tFLVcv/dFUcuVVoparrFS1HKtTBS1XBccilqutFLUcp2tFLVcaaWo5frBHEUtV1oparnOVopargsORS1XCVPUcpUwJTlKVUJRy80+Tyvco35yarlZxztX9ZNTy81prAy13CzvVN1PTi1XCVPUcqWVopYrrRS1XCsTRS1XCVPUcpUwRS1XWilquVlf71zVT04t18pEUctVwhS1XCsTRS1XWilqudJKUcu1MlHUcpUwRS1XCVPUcqWVopYrrRS13JxeHjLUcpUwRS1XCVPUcqWVopYrrRS1XG+ZKGq5SpiilquEKWq50kpJjlKVUNRy7XMUtdys79MK96ifnFquEqao5drnKGq50kpRy7UyUdRylTBFLVcJU9RypZWiliutFLVcKxNFLVcJU9Ry/U41RS1XWilquVYmilqulYmilquEKWq5SpiiliutFLVcZytFLVcJU9RylTBFLVdaKWq5Xh5S1HIjDqv7yanlKmGKWq6ViaKWK60UtVxjpajlWpkoyVGqEoparn2OopYrrRS1XGOlqOXa5yhquV5YU9RyrUwUtVxnK0Ut11gparlWJoparrRS1HKtTBS1XGmlqOUaK0Ut18pEUcuVVoparr+zSVHLlVaKWq6xUtRyrUwUtVxppajlestEUcuVVoparrFS1HKtTBS1XGmlqOVamShqub48pKjlKmGKWq6ViaKWK62U5CjtcxS1XFVCUcs1Voparn2OopYrrRS1XCsTRS1XWilqud5sUtRyrUwUtVwlTFHLNVaKWq5NmKKW6/8koajlSitFLdfZSlHLNVaKWq4SpqjlWpkoarl+p5qilutspajlGitFLdfKRFHLtTJR1HKllaKW62ylqOUaK0UtVwlT1HKtTBS1XGmlqOX68pCilmtloqjlKmFKcpT2OYpariqhqOU6+ClquR/hUfGVxf80sAAAAABJRU5ErkJggg==" y="-52.8"/>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_8">
+     <g id="line2d_19">
+      <defs>
+       <path d="M 0 0 
+L 3.5 0 
+" id="m3135767d89" style="stroke:#66727c;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="725.92024" xlink:href="#m3135767d89" y="363.4815"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 732.92024, 366.403375)" x="732.92024" y="366.403375">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_20">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="725.92024" xlink:href="#m3135767d89" y="301.3887"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 732.92024, 304.310575)" x="732.92024" y="304.310575">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_21">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="725.92024" xlink:href="#m3135767d89" y="239.2959"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 732.92024, 242.217775)" x="732.92024" y="242.217775">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_22">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="725.92024" xlink:href="#m3135767d89" y="177.2031"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 732.92024, 180.124975)" x="732.92024" y="180.124975">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_23">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="725.92024" xlink:href="#m3135767d89" y="115.1103"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 732.92024, 118.032175)" x="732.92024" y="118.032175">0.8</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_24">
+      <g>
+       <use style="fill:#66727c;stroke:#66727c;stroke-width:0.8;" x="725.92024" xlink:href="#m3135767d89" y="53.0175"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="fill:#66727c;font-family:SimHei;font-size:8.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 732.92024, 55.939375)" x="732.92024" y="55.939375">1.0</text>
+     </g>
+    </g>
+    <g id="text_32">
+     <text style="fill:#30343a;font-family:SimHei;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-90, 757.79524, 208.2495)" x="757.79524" y="208.2495">列内相对代价（0优，1劣）</text>
+    </g>
+   </g>
+   <g id="patch_4">
+    <path d="M 710.39704 363.4815 
+L 710.39704 362.26875 
+L 710.39704 54.23025 
+L 710.39704 53.0175 
+L 725.92024 53.0175 
+L 725.92024 54.23025 
+L 725.92024 362.26875 
+L 725.92024 363.4815 
+z
+" style="fill:none;stroke:#87939c;stroke-linejoin:miter;stroke-width:0.7;"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="peb78cfaed4">
+   <rect height="310.464" width="603.91224" x="83.83" y="53.0175"/>
+  </clipPath>
+  <clipPath id="p868d11e912">
+   <rect height="310.464" width="15.5232" x="710.39704" y="53.0175"/>
+  </clipPath>
+ </defs>
+</svg>

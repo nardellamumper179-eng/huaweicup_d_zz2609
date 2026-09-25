@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="444.168pt" version="1.1" viewBox="0 0 1077.48 444.168" width="1077.48pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-25T23:16:10.577629</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 444.168 
+L 1077.48 444.168 
+L 1077.48 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path clip-path="url(#peaa5bab3a2)" d="M 97.533692 404.792064 
+L 235.359692 404.792064 
+L 235.359692 39.802824 
+L 97.533692 39.802824 
+z
+" style="fill:#eef2f4;opacity:0.72;stroke:#555a60;stroke-dasharray:4.6,3.45;stroke-dashoffset:0;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_3">
+    <path clip-path="url(#peaa5bab3a2)" d="M 255.340385 380.03256 
+L 400.098462 380.03256 
+L 400.098462 66.26988 
+L 255.340385 66.26988 
+z
+" style="fill:#eef2f4;opacity:0.72;stroke:#555a60;stroke-dasharray:4.6,3.45;stroke-dashoffset:0;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_4">
+    <path clip-path="url(#peaa5bab3a2)" d="M 415.593692 413.329824 
+L 682.682538 413.329824 
+L 682.682538 33.399504 
+L 415.593692 33.399504 
+z
+" style="fill:#eef2f4;opacity:0.72;stroke:#555a60;stroke-dasharray:4.6,3.45;stroke-dashoffset:0;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_5">
+    <path clip-path="url(#peaa5bab3a2)" d="M 690.430154 403.5114 
+L 911.441077 403.5114 
+L 911.441077 51.3288 
+L 690.430154 51.3288 
+z
+" style="fill:#eef2f4;opacity:0.72;stroke:#555a60;stroke-dasharray:4.6,3.45;stroke-dashoffset:0;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="line2d_1">
+    <path clip-path="url(#peaa5bab3a2)" d="M 91.009385 339.051312 
+L 91.009385 99.994032 
+" style="fill:none;stroke:#30343a;stroke-linecap:square;stroke-width:1.05;"/>
+   </g>
+   <g id="line2d_2">
+    <path clip-path="url(#peaa5bab3a2)" d="M 242.291769 339.051312 
+L 242.291769 99.994032 
+" style="fill:none;stroke:#30343a;stroke-linecap:square;stroke-width:1.05;"/>
+   </g>
+   <g id="line2d_3">
+    <path clip-path="url(#peaa5bab3a2)" d="M 220.272231 99.994032 
+L 242.291769 99.994032 
+" style="fill:none;stroke:#30343a;stroke-linecap:square;stroke-width:1.05;"/>
+   </g>
+   <g id="line2d_4">
+    <path clip-path="url(#peaa5bab3a2)" d="M 220.272231 177.26076 
+L 242.291769 177.26076 
+" style="fill:none;stroke:#30343a;stroke-linecap:square;stroke-width:1.05;"/>
+   </g>
+   <g id="line2d_5">
+    <path clip-path="url(#peaa5bab3a2)" d="M 220.272231 257.515704 
+L 242.291769 257.515704 
+" style="fill:none;stroke:#30343a;stroke-linecap:square;stroke-width:1.05;"/>
+   </g>
+   <g id="line2d_6">
+    <path clip-path="url(#peaa5bab3a2)" d="M 220.272231 339.051312 
+L 242.291769 339.051312 
+" style="fill:none;stroke:#30343a;stroke-linecap:square;stroke-width:1.05;"/>
+   </g>
+   <g id="patch_6">
+    <path clip-path="url(#peaa5bab3a2)" d="M 82.038462 226.35288 
+L 91.009385 226.35288 
+L 91.009385 99.994032 
+L 111.335415 99.994032 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 107.335415 97.994032 
+L 111.335415 99.994032 
+L 107.335415 101.994032 
+L 107.335415 97.994032 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_7">
+    <path clip-path="url(#peaa5bab3a2)" d="M 91.009385 177.26076 
+L 111.335415 177.26076 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 107.335415 175.26076 
+L 111.335415 177.26076 
+L 107.335415 179.26076 
+L 107.335415 175.26076 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_8">
+    <path clip-path="url(#peaa5bab3a2)" d="M 91.009385 257.515704 
+L 111.335415 257.515704 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 107.335415 255.515704 
+L 111.335415 257.515704 
+L 107.335415 259.515704 
+L 107.335415 255.515704 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_9">
+    <path clip-path="url(#peaa5bab3a2)" d="M 91.009385 339.051312 
+L 111.335415 339.051312 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 107.335415 337.051312 
+L 111.335415 339.051312 
+L 107.335415 341.051312 
+L 107.335415 337.051312 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_10">
+    <path clip-path="url(#peaa5bab3a2)" d="M 242.291769 99.994032 
+L 249.223846 99.994032 
+L 249.223846 122.619096 
+L 270.365415 122.619096 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 266.365415 120.619096 
+L 270.365415 122.619096 
+L 266.365415 124.619096 
+L 266.365415 120.619096 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_11">
+    <path clip-path="url(#peaa5bab3a2)" d="M 383.787692 141.829056 
+L 383.787692 185.366557 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 385.787692 181.366557 
+L 383.787692 185.366557 
+L 381.787692 181.366557 
+L 385.787692 181.366557 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_12">
+    <path clip-path="url(#peaa5bab3a2)" d="M 383.787692 237.02508 
+L 383.787692 280.989469 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 385.787692 276.989469 
+L 383.787692 280.989469 
+L 381.787692 276.989469 
+L 385.787692 276.989469 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_13">
+    <path clip-path="url(#peaa5bab3a2)" d="M 383.787692 309.169152 
+L 406.622769 309.169152 
+L 406.622769 88.468056 
+L 431.434261 88.468056 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 427.434261 86.468056 
+L 431.434261 88.468056 
+L 427.434261 90.468056 
+L 427.434261 86.468056 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_14">
+    <path clip-path="url(#peaa5bab3a2)" d="M 475.128 105.970464 
+L 475.128 131.151781 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 477.128 127.151781 
+L 475.128 131.151781 
+L 473.128 127.151781 
+L 477.128 127.151781 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_15">
+    <path clip-path="url(#peaa5bab3a2)" d="M 475.128 170.85744 
+L 475.128 199.026973 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 477.128 195.026973 
+L 475.128 199.026973 
+L 473.128 195.026973 
+L 477.128 195.026973 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_16">
+    <path clip-path="url(#peaa5bab3a2)" d="M 475.128 246.416616 
+L 475.128 279.708805 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 477.128 275.708805 
+L 475.128 279.708805 
+L 473.128 275.708805 
+L 477.128 275.708805 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_17">
+    <path clip-path="url(#peaa5bab3a2)" d="M 517.536 300.204504 
+L 539.555538 300.204504 
+L 539.555538 203.727816 
+L 551.318415 203.727816 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 547.318415 201.727816 
+L 551.318415 203.727816 
+L 547.318415 205.727816 
+L 547.318415 201.727816 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_18">
+    <path clip-path="url(#peaa5bab3a2)" d="M 606.021923 228.914208 
+L 606.021923 260.071957 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 608.021923 256.071957 
+L 606.021923 260.071957 
+L 604.021923 256.071957 
+L 608.021923 256.071957 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_19">
+    <path clip-path="url(#peaa5bab3a2)" d="M 606.021923 304.900272 
+L 606.021923 341.180677 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 608.021923 337.180677 
+L 606.021923 341.180677 
+L 604.021923 337.180677 
+L 608.021923 337.180677 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_20">
+    <path clip-path="url(#peaa5bab3a2)" d="M 568.099385 368.079696 
+L 536.701154 368.079696 
+L 536.701154 136.7064 
+L 518.821739 136.7064 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 522.821739 138.7064 
+L 518.821739 136.7064 
+L 522.821739 134.7064 
+L 522.821739 138.7064 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_21">
+    <path clip-path="url(#peaa5bab3a2)" d="M 643.944462 368.079696 
+L 671.265 368.079696 
+L 671.265 94.0176 
+L 695.668722 94.0176 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 691.668722 92.0176 
+L 695.668722 94.0176 
+L 691.668722 96.0176 
+L 691.668722 92.0176 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_22">
+    <path clip-path="url(#peaa5bab3a2)" d="M 733.245923 114.508224 
+L 733.245923 129.022416 
+L 800.527846 129.022416 
+L 800.527846 136.701325 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 802.527846 132.701325 
+L 800.527846 136.701325 
+L 798.527846 132.701325 
+L 802.527846 132.701325 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_23">
+    <path clip-path="url(#peaa5bab3a2)" d="M 800.527846 177.26076 
+L 800.527846 198.600085 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 802.527846 194.600085 
+L 800.527846 198.600085 
+L 798.527846 194.600085 
+L 802.527846 194.600085 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_24">
+    <path clip-path="url(#peaa5bab3a2)" d="M 800.527846 240.013296 
+L 800.527846 261.779509 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 802.527846 257.779509 
+L 800.527846 261.779509 
+L 798.527846 257.779509 
+L 802.527846 257.779509 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_25">
+    <path clip-path="url(#peaa5bab3a2)" d="M 800.527846 306.607824 
+L 800.527846 331.362253 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 802.527846 327.362253 
+L 800.527846 331.362253 
+L 798.527846 327.362253 
+L 802.527846 327.362253 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_26">
+    <path clip-path="url(#peaa5bab3a2)" d="M 895.945846 355.273056 
+L 919.596462 355.273056 
+L 919.596462 181.102752 
+L 929.728261 181.102752 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 925.728261 179.102752 
+L 929.728261 181.102752 
+L 925.728261 183.102752 
+L 925.728261 179.102752 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_27">
+    <path clip-path="url(#peaa5bab3a2)" d="M 991.771615 207.14292 
+L 991.771615 259.218181 
+" style="fill:none;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+    <path clip-path="url(#peaa5bab3a2)" d="M 993.771615 255.218181 
+L 991.771615 259.218181 
+L 989.771615 255.218181 
+L 993.771615 255.218181 
+z
+" style="fill:#30343a;stroke:#30343a;stroke-linecap:round;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_28">
+    <path clip-path="url(#peaa5bab3a2)" d="M 15.979846 247.69728 
+L 82.038462 247.69728 
+L 82.038462 205.00848 
+L 15.979846 205.00848 
+z
+" style="fill:#ffffff;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_29">
+    <path clip-path="url(#peaa5bab3a2)" d="M 112.621154 118.777104 
+L 220.272231 118.777104 
+L 220.272231 81.21096 
+L 112.621154 81.21096 
+z
+" style="fill:#ffffff;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_30">
+    <path clip-path="url(#peaa5bab3a2)" d="M 112.621154 197.751384 
+L 220.272231 197.751384 
+L 220.272231 156.770136 
+L 112.621154 156.770136 
+z
+" style="fill:#ffffff;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_31">
+    <path clip-path="url(#peaa5bab3a2)" d="M 112.621154 278.860104 
+L 220.272231 278.860104 
+L 220.272231 236.171304 
+L 112.621154 236.171304 
+z
+" style="fill:#ffffff;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_32">
+    <path clip-path="url(#peaa5bab3a2)" d="M 112.621154 362.103264 
+L 220.272231 362.103264 
+L 220.272231 315.99936 
+L 112.621154 315.99936 
+z
+" style="fill:#ffffff;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_33">
+    <path clip-path="url(#peaa5bab3a2)" d="M 271.651154 141.829056 
+L 383.787692 141.829056 
+L 383.787692 103.409136 
+L 271.651154 103.409136 
+z
+" style="fill:#ffffff;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_34">
+    <path clip-path="url(#peaa5bab3a2)" d="M 271.651154 237.02508 
+L 383.787692 237.02508 
+L 383.787692 186.652296 
+L 271.651154 186.652296 
+z
+" style="fill:#a9dde0;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_35">
+    <path clip-path="url(#peaa5bab3a2)" d="M 271.651154 336.063096 
+L 383.787692 336.063096 
+L 383.787692 282.275208 
+L 271.651154 282.275208 
+z
+" style="fill:#ffffff;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_36">
+    <path clip-path="url(#peaa5bab3a2)" d="M 432.72 105.970464 
+L 517.536 105.970464 
+L 517.536 70.965648 
+L 432.72 70.965648 
+z
+" style="fill:#ffffff;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_37">
+    <path clip-path="url(#peaa5bab3a2)" d="M 432.72 170.85744 
+L 517.536 170.85744 
+L 517.536 132.43752 
+L 432.72 132.43752 
+z
+" style="fill:#e9a09b;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_38">
+    <path clip-path="url(#peaa5bab3a2)" d="M 425.380154 246.416616 
+L 524.875846 246.416616 
+L 524.875846 200.312712 
+L 425.380154 200.312712 
+z
+" style="fill:#f3dea0;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_39">
+    <path clip-path="url(#peaa5bab3a2)" d="M 432.72 319.414464 
+L 517.536 319.414464 
+L 517.536 280.994544 
+L 432.72 280.994544 
+z
+" style="fill:#ffffff;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_40">
+    <path clip-path="url(#peaa5bab3a2)" d="M 552.604154 228.914208 
+L 659.439692 228.914208 
+L 659.439692 178.541424 
+L 552.604154 178.541424 
+z
+" style="fill:#a9dde0;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_41">
+    <path clip-path="url(#peaa5bab3a2)" d="M 552.604154 304.900272 
+L 659.439692 304.900272 
+L 659.439692 261.357696 
+L 552.604154 261.357696 
+z
+" style="fill:#dceab8;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_42">
+    <path clip-path="url(#peaa5bab3a2)" d="M 606.021923 342.466416 
+L 643.944462 368.079696 
+L 606.021923 393.692976 
+L 568.099385 368.079696 
+z
+" style="fill:#a9dde0;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_43">
+    <path clip-path="url(#peaa5bab3a2)" d="M 696.954462 114.508224 
+L 769.537385 114.508224 
+L 769.537385 73.526976 
+L 696.954462 73.526976 
+z
+" style="fill:#dceab8;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_44">
+    <path clip-path="url(#peaa5bab3a2)" d="M 705.109846 177.26076 
+L 895.945846 177.26076 
+L 895.945846 137.987064 
+L 705.109846 137.987064 
+z
+" style="fill:#ffffff;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_45">
+    <path clip-path="url(#peaa5bab3a2)" d="M 705.109846 240.013296 
+L 895.945846 240.013296 
+L 895.945846 199.885824 
+L 705.109846 199.885824 
+z
+" style="fill:#ffffff;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_46">
+    <path clip-path="url(#peaa5bab3a2)" d="M 705.109846 306.607824 
+L 895.945846 306.607824 
+L 895.945846 263.065248 
+L 705.109846 263.065248 
+z
+" style="fill:#a9dde0;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_47">
+    <path clip-path="url(#peaa5bab3a2)" d="M 705.109846 377.89812 
+L 895.945846 377.89812 
+L 895.945846 332.647992 
+L 705.109846 332.647992 
+z
+" style="fill:#f3dea0;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_48">
+    <path clip-path="url(#peaa5bab3a2)" d="M 931.014 207.14292 
+L 1052.529231 207.14292 
+L 1052.529231 155.062584 
+L 931.014 155.062584 
+z
+" style="fill:#ffffff;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="patch_49">
+    <path clip-path="url(#peaa5bab3a2)" d="M 931.014 328.806 
+L 1052.529231 328.806 
+L 1052.529231 260.50392 
+L 931.014 260.50392 
+z
+" style="fill:#5576d6;stroke:#30343a;stroke-linejoin:miter;stroke-width:1.15;"/>
+   </g>
+   <g id="text_1">
+    <text style="fill:#555a60;font-family:SimHei;font-size:11.2px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 166.446692, 57.18199)" x="166.446692" y="57.18199">问题二数据与约束</text>
+   </g>
+   <g id="text_2">
+    <text style="fill:#555a60;font-family:SimHei;font-size:11.2px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 327.719423, 83.736546)" x="327.719423" y="83.736546">任务建立</text>
+   </g>
+   <g id="text_3">
+    <text style="fill:#555a60;font-family:SimHei;font-size:11.2px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 549.138115, 50.77867)" x="549.138115" y="50.77867">S002组批调整</text>
+   </g>
+   <g id="text_4">
+    <text style="fill:#555a60;font-family:SimHei;font-size:11.2px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 800.935615, 68.839216)" x="800.935615" y="68.839216">资源与时刻安排</text>
+   </g>
+   <g id="text_5">
+    <text style="fill:#60666d;font-family:SimHei;font-size:8.7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 538.74, 431.25912)" x="538.74" y="431.25912">资源安排在给定组批与路线下进行；最终方案为精确排程结果，不将完整问题表述为严格全局最优。</text>
+   </g>
+   <g id="text_6">
+    <text style="fill:#30343a;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(33.259154 223.958593)">第二问</text>
+    <text style="fill:#30343a;font-family:SimHei;font-size:10.5px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(28.009154 235.883886)">输入数据</text>
+   </g>
+   <g id="text_7">
+    <text style="fill:#30343a;font-family:SimHei;font-size:9.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 166.446692, 103.241102)" x="166.446692" y="103.241102">第一问物理规则</text>
+   </g>
+   <g id="text_8">
+    <text style="fill:#30343a;font-family:SimHei;font-size:9.4px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 166.446692, 180.436932)" x="166.446692" y="180.436932">8架实体无人机与机型</text>
+   </g>
+   <g id="text_9">
+    <text style="fill:#30343a;font-family:SimHei;font-size:9.2px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 166.446692, 260.642266)" x="166.446692" y="260.642266">共享电池与充电时间</text>
+   </g>
+   <g id="text_10">
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.8px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(126.846692 337.134906)">80箱时限、首批标记</text>
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.8px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(144.446692 346.914593)">与优先系数</text>
+   </g>
+   <g id="text_11">
+    <text style="fill:#30343a;font-family:SimHei;font-size:9.2px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 327.719423, 125.745658)" x="327.719423" y="125.745658">形成初始任务集合</text>
+   </g>
+   <g id="text_12">
+    <text style="fill:#30343a;font-family:SimHei;font-size:9px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(296.219423 209.847965)">检查每个任务的</text>
+    <text style="fill:#30343a;font-family:SimHei;font-size:9px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(284.969423 219.981754)">载重、体积与返航SOC</text>
+   </g>
+   <g id="text_13">
+    <text style="fill:#30343a;font-family:SimHei;font-size:9px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(287.219423 307.196007)">计算任务时长、能耗</text>
+    <text style="fill:#30343a;font-family:SimHei;font-size:9px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(296.219423 317.329797)">和逐箱送达时间</text>
+   </g>
+   <g id="text_14">
+    <text style="fill:#30343a;font-family:SimHei;font-size:9.3px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.128, 91.628603)" x="475.128" y="91.628603">当前S002组批</text>
+   </g>
+   <g id="text_15">
+    <text style="fill:#30343a;font-family:SimHei;font-size:9.2px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.128, 154.792011)" x="475.128" y="154.792011">选择调整方式</text>
+   </g>
+   <g id="text_16">
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.9px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(426.178 221.352603)">移动、交换、拆分、合并</text>
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.9px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(448.428 231.460709)">重新组合货箱</text>
+   </g>
+   <g id="text_17">
+    <text style="fill:#30343a;font-family:SimHei;font-size:9.1px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 475.128, 303.314856)" x="475.128" y="303.314856">检查新的组批方案</text>
+   </g>
+   <g id="text_18">
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.9px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(574.871923 201.733138)">安排顺序并评价</text>
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.9px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(588.221923 211.841244)">候选方案</text>
+   </g>
+   <g id="text_19">
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.9px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(579.321923 281.112578)">更新当前方案</text>
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.9px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(579.321923 291.26414)">记录较优方案</text>
+   </g>
+   <g id="text_20">
+    <text style="font-family:SimHei;font-size:8.8px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(588.421923 366.348571)">是否达到</text>
+    <text style="font-family:SimHei;font-size:8.8px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(584.021923 375.723321)">迭代上限？</text>
+   </g>
+   <g id="text_21">
+    <text style="fill:#30343a;font-family:SimHei;font-size:9px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 733.245923, 97.093772)" x="733.245923" y="97.093772">确定较优S002组批</text>
+   </g>
+   <g id="text_22">
+    <text style="fill:#30343a;font-family:SimHei;font-size:9.3px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 800.527846, 160.857115)" x="800.527846" y="160.857115">固定组批与任务路线</text>
+   </g>
+   <g id="text_23">
+    <text style="fill:#30343a;font-family:SimHei;font-size:9px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 800.527846, 223.025732)" x="800.527846" y="223.025732">安排机型、无人机、电池和开始时刻</text>
+   </g>
+   <g id="text_24">
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.8px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(752.127846 282.804114)">检查无人机、电池不重叠</text>
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.8px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(756.527846 292.712708)">以及充电和硬时限约束</text>
+   </g>
+   <g id="text_25">
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.9px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 800.527846, 358.315048)" x="800.527846" y="358.315048">依次降低延误、最后返航时刻和总能耗</text>
+   </g>
+   <g id="text_26">
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.9px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(938.371615 179.108074)">检查80箱唯一交付、时限、</text>
+    <text style="fill:#30343a;font-family:SimHei;font-size:8.9px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(958.396615 189.21618)">SOC与资源不冲突</text>
+   </g>
+   <g id="text_27">
+    <text style="fill:#ffffff;font-family:SimHei;font-size:9.1px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(946.271615 287.630009)">得到21架次零延误方案</text>
+    <text style="fill:#ffffff;font-family:SimHei;font-size:9.1px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(955.371615 297.831962)">最后返航7718.4 s</text>
+    <text style="fill:#ffffff;font-family:SimHei;font-size:9.1px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(953.096615 307.900614)">总能耗64.2234 kWh</text>
+   </g>
+   <g id="text_28">
+    <g id="patch_50">
+     <path d="M 541.679846 361.625009 
+L 550.479846 361.625009 
+L 550.479846 354.043759 
+L 541.679846 354.043759 
+z
+" style="fill:#ffffff;"/>
+    </g>
+    <text style="font-family:SimHei;font-size:8px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 546.079846, 360.225009)" x="546.079846" y="360.225009">否</text>
+   </g>
+   <g id="text_29">
+    <g id="patch_51">
+     <path d="M 661.564 361.338746 
+L 670.364 361.338746 
+L 670.364 353.476246 
+L 661.564 353.476246 
+z
+" style="fill:#ffffff;"/>
+    </g>
+    <text style="font-family:SimHei;font-size:8px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 665.964, 359.938746)" x="665.964" y="359.938746">是</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="peaa5bab3a2">
+   <rect height="426.888" width="1060.2" x="8.64" y="8.64"/>
+  </clipPath>
+ </defs>
+</svg>
