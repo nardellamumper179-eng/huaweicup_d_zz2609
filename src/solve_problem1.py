@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import math
+import os
 from functools import lru_cache
 from pathlib import Path
 
@@ -9,7 +10,9 @@ import pandas as pd
 from scipy.io import loadmat
 
 
-DATA_ROOT = Path(r"C:\Users\曾钦仪\Desktop\华为杯2026\数据")
+DATA_ROOT = Path(os.environ.get(
+    "HUAWEICUP_DATA_ROOT", r"C:\Users\曾钦仪\Desktop\华为杯2026\数据"
+))
 BASE_DIR = DATA_ROOT / "无人机应急物资运输基础数据"
 DEM_PATH = (
     DATA_ROOT
@@ -18,7 +21,10 @@ DEM_PATH = (
     / "数字高程模型数据（DEM）"
     / "镇龙乡及周边30米DEM.mat"
 )
-OUTPUT_DIR = Path(__file__).resolve().parent.parent / "results"
+SCRIPT_DIR = Path(__file__).resolve().parent
+OUTPUT_DIR = SCRIPT_DIR / "results"
+if not OUTPUT_DIR.is_dir() and (SCRIPT_DIR.parent / "results").is_dir():
+    OUTPUT_DIR = SCRIPT_DIR.parent / "results"
 OUTPUT_PATH = OUTPUT_DIR / "问题一计算结果.xlsx"
 
 G = 9.80665

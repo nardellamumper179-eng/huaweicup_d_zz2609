@@ -3,9 +3,12 @@ from __future__ import annotations
 import json
 from collections import defaultdict
 
+import numpy as np
+
 from solve_problem1 import OUTPUT_DIR, load_dem, load_inputs
 from solve_problem2_baseline import charger_time
-from solve_problem3_coverage import ACCESS_LIMIT_DB, BACKHAUL_LIMIT_DB, TerrainLink
+from solve_problem2_multistop import build_all_segments
+from solve_problem3_coverage import ACCESS_LIMIT_DB, BACKHAUL_LIMIT_DB, DIRECT_LIMIT_DB, TerrainLink, build_phases, phase_position
 from plan_problem3_relay import (
     HOVER_COMM_POWER_KW,
     LINK_S,
@@ -32,20 +35,20 @@ POINTS = {
         "悬停海拔_m": 516.3243560791016,
     },
     "东部": {
-        "候选点": "GRID-7-3-H300",
+        "候选点": "GRID-7-2-H300",
         "经度": 109.2835966,
-        "纬度": 23.0299769,
-        "地面高程_m": 416.19561767578125,
+        "纬度": 23.0175933,
+        "地面高程_m": 426.6973876953125,
         "离地高度_m": 300.0,
-        "悬停海拔_m": 716.1956176757812,
+        "悬停海拔_m": 726.6973876953125,
     },
     "西部": {
-        "候选点": "O01-S007-MID-H300",
-        "经度": 109.2118354,
-        "纬度": 23.01896405,
-        "地面高程_m": 286.2146301269531,
+        "候选点": "WEST-109.213585-23.021464-H300",
+        "经度": 109.2135854,
+        "纬度": 23.02146405,
+        "地面高程_m": 238.58375549316406,
         "离地高度_m": 300.0,
-        "悬停海拔_m": 586.2146301269531,
+        "悬停海拔_m": 538.5837554931641,
     },
     "北部": {
         "候选点": "GRID-4-6-H300",
@@ -127,7 +130,8 @@ def build_missions(direct, origin, dem, lat, lon, nodata):
         takeoff = prep_start + PREP_S
         arrival = takeoff + m["去程时间_s"]
         service_start = arrival + LINK_S
-        hover_s = service_end - service_start
+        # 建链阶段也需要保持悬停和通信，服务能耗从到达悬停点开始计。
+        hover_s = service_end - arrival
         if hover_s < -1e-9:
             raise AssertionError((mission_id, "negative hover"))
         return_time = service_end + m["返程时间_s"]
@@ -144,7 +148,7 @@ def build_missions(direct, origin, dem, lat, lon, nodata):
             "建链完成_服务开始_s": service_start, "服务结束_s": service_end,
             "返回O01_s": return_time, "能源组件充满_s": full_time,
             "去程时间_s": m["去程时间_s"], "返程时间_s": m["返程时间_s"],
-            "通信悬停_s": hover_s, "往返飞行能耗_kWh": m["往返飞行能耗_kWh"],
+            "通信悬停_s": hover_s, "建链悬停_s": LINK_S, "往返飞行能耗_kWh": m["往返飞行能耗_kWh"],
             "悬停通信能耗_kWh": hover_energy, "总能耗_kWh": total_energy,
             "返航SOC": return_soc, "返航余量要求": RESERVE, "SOC安全裕量": return_soc - RESERVE,
             "保障运输架次": ", ".join(sorted(ASSIGNMENTS[region])),
@@ -241,17 +245,61 @@ def validate_relay_resources(missions):
     return checks
 
 
+def verify_switch_boundaries(transport, direct, origin_data, services, types, dem, lat, lon, nodata, missions):
+    """Check a fine time grid around every direct-link gap boundary."""
+    segments = build_all_segments(origin_data, services, dem, lat, lon, nodata)
+    nodes = {"O01": (origin_data["经度"], origin_data["纬度"], origin_data["海拔"])}
+    for _, row in services.iterrows():
+        nodes[str(row["服务区编号"])] = (float(row["经度"]), float(row["纬度"]), float(row["海拔"]))
+    gateway = (origin_data["经度"], origin_data["纬度"], origin_data["海拔"] + 20.0)
+    terrain = TerrainLink(dem, lat, lon, nodata)
+    trips = {x["架次编号"]: x for x in transport["运输架次"]}
+    mission_by_trip = {tid: m for m in missions for tid in m["保障运输架次"].split(", ")}
+    phases = {
+        tid: build_phases(trip, trip["访问服务区顺序"], types, nodes, segments)
+        for tid, trip in trips.items()
+    }
+    checked = 0
+    failures = []
+    for gap in direct["通信缺口"]:
+        trip = trips[gap["架次编号"]]
+        mission = mission_by_trip[gap["架次编号"]]
+        relay = (mission["经度"], mission["纬度"], mission["悬停海拔_m"])
+        for edge in (gap["缺口开始_s"], gap["缺口结束_s"]):
+            for tm in np.arange(edge - 1.0, edge + 1.0001, 0.05):
+                phase = next((p for p in phases[trip["架次编号"]]
+                              if trip["开始时刻_s"] + p["开始偏移_s"] - 1e-8 <= tm <=
+                              trip["开始时刻_s"] + p["结束偏移_s"] + 1e-8), None)
+                if phase is None:
+                    continue
+                pos = phase_position(phase, tm - trip["开始时刻_s"] - phase["开始偏移_s"])
+                direct_ok = terrain.status(pos, gateway, DIRECT_LIMIT_DB)["可用"]
+                relay_ok = (
+                    mission["建链完成_服务开始_s"] <= tm <= mission["服务结束_s"]
+                    and terrain.status(pos, relay, ACCESS_LIMIT_DB)["可用"]
+                    and terrain.status(relay, gateway, BACKHAUL_LIMIT_DB)["可用"]
+                )
+                checked += 1
+                if not direct_ok and not relay_ok:
+                    failures.append((gap["缺口编号"], round(float(tm), 4)))
+    return checked, failures
+
+
 def main():
     transport = json.loads(TRANSPORT.read_text(encoding="utf-8"))
     direct = json.loads(DIRECT.read_text(encoding="utf-8"))
-    origin_data, _, _, _ = load_inputs()
+    origin_data, services, types, _ = load_inputs()
     origin = (origin_data["经度"], origin_data["纬度"], origin_data["海拔"])
     dem, lat, lon, nodata = load_dem()
-
     checks = validate_transport(transport)
     missions, _, gap_bounds = build_missions(direct, origin, dem, lat, lon, nodata)
     relay_rows, coverage_summary = verify_communications(direct, missions, origin, dem, lat, lon, nodata)
     checks.extend(validate_relay_resources(missions))
+    boundary_samples, boundary_failures = verify_switch_boundaries(
+        transport, direct, origin_data, services, types, dem, lat, lon, nodata, missions
+    )
+    checks.append({"检查项": "通信切换边界加密检查", "结果": not boundary_failures,
+                   "数值": f"检查 {boundary_samples} 个边界样本，中断 {len(boundary_failures)} 点"})
     checks.append({"检查项": "连续通信", "结果": True,
                    "数值": f"逐秒检查 {len(direct['逐秒样本'])} 点，直连缺口 {len(relay_rows)} 点，中断 0 点"})
 
@@ -274,20 +322,24 @@ def main():
         cursor = trip["开始时刻_s"]
         stage_no = 1
         for gap in sorted(gaps_by_trip[trip_id], key=lambda x: x["缺口开始_s"]):
-            if gap["缺口开始_s"] > cursor + 1e-9:
+            detail_start = max(trip["开始时刻_s"], gap["缺口开始_s"] - 1.0)
+            if detail_start > cursor + 1e-9:
                 communication_detail.append({
                     "运输架次编号": trip_id, "通信阶段": f"阶段{stage_no}",
-                    "开始时刻_s": cursor, "结束时刻_s": gap["缺口开始_s"],
+                    "开始时刻_s": cursor, "结束时刻_s": detail_start,
                     "保障方式": "G01直连", "中继架次编号": None,
                 })
                 stage_no += 1
+            detail_end = min(trip["返回O01时刻_s"], gap["缺口结束_s"] + 1.0)
             communication_detail.append({
                 "运输架次编号": trip_id, "通信阶段": f"阶段{stage_no}",
-                "开始时刻_s": gap["缺口开始_s"], "结束时刻_s": gap["缺口结束_s"],
-                "保障方式": "空中中继", "中继架次编号": mission_for_trip[trip_id],
+                # Expand the reported 1 s gap by one second on each side so
+                # the submission table remains conservative at switch edges.
+                    "开始时刻_s": detail_start, "结束时刻_s": detail_end,
+                    "保障方式": "空中中继", "中继架次编号": mission_for_trip[trip_id],
             })
             stage_no += 1
-            cursor = gap["缺口结束_s"]
+            cursor = detail_end
         if trip["返回O01时刻_s"] > cursor + 1e-9:
             communication_detail.append({
                 "运输架次编号": trip_id, "通信阶段": f"阶段{stage_no}",
@@ -296,7 +348,7 @@ def main():
             })
     result = {
         "方案名称": "问题三运输与中继联合调度方案",
-        "方法说明": "继承问题二ALNS+CP-SAT零延误组批与路线，联合调整运输时刻；采用DEM候选点搜索确定四个悬停点，并用两架中继无人机轮换执行四个架次；最终按1秒采样和不超过20米的DEM视线采样精确验算连续通信。",
+        "方法说明": "继承问题二ALNS+CP-SAT零延误组批与路线，联合调整运输时刻；采用DEM候选点搜索确定四个悬停点，并用两架中继无人机轮换执行四个架次；最终按1秒时间采样、切换边界0.05秒加密采样和不超过20米的DEM视线采样检查通信状态。",
         "最优性边界": "候选悬停点与轮换顺序采用启发式搜索，结果为经逐秒验证的可行优质方案，不宣称完整混合离散-连续问题的全局最优。",
         "指标汇总": {
             "货箱数": len(transport["逐箱交付"]),
@@ -314,7 +366,8 @@ def main():
             "联合任务完成时间_s": joint_finish,
             "最低运输返航SOC": min(x["返航SOC"] for x in transport["运输架次"]),
             "最低中继返航SOC": min(x["返航SOC"] for x in missions),
-            "通信检查样本": len(direct["逐秒样本"]), "通信中断样本": 0,
+            "通信检查样本": len(direct["逐秒样本"]), "边界加密样本": boundary_samples,
+            "通信中断样本": 0,
         },
         "权衡说明": [
             "保持80箱零延误，优先级高于减少联合完成时间和能耗。",
